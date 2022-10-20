@@ -1,0 +1,24 @@
+title: Fitroh Izatul Malkiyah
+logo: /assets/img/me.jpg
+email: fitrohiza@gmail.com
+description: Backend Developer - Mobile App Developer
+favicon: true
+color-scheme: light
+
+google_analytics: #-##########
+
+url: "https://fim.my.id/"
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/fitrohiza
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/#
