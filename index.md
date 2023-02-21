@@ -5,7 +5,7 @@ layout: default
 
 Hai, saya **Fitroh Izatul Malkiyah**, seorang mahasiswi teknik informatika di salah satu universitas di Purwokerto.
 
-Selain mencari ilmu di dunia perkuliahan, saya juga senang mencari ilmu mengenai pemrograman. Saat ini saya sedang mempelajari bahasa pemrograman JavaScript, NodeJS serta Flutter melalui platform belajar online.
+Selain mencari ilmu di dunia perkuliahan, saya juga senang mencari ilmu mengenai pemrograman. Saat ini saya sedang mempelajari Frontend Website dengan menggunakan JavaScript dan ReactJS.
 
 ---
 
@@ -27,7 +27,7 @@ Selain mencari ilmu di dunia perkuliahan, saya juga senang mencari ilmu mengenai
 <p style="margin-bottom:4px;">&#x2022; Dart &#x2022; PHP &#x2022; Javascript</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
-<p style="margin-bottom:4px;">&#x2022; Flutter &#x2022; Codeigniter &#x2022; NodeJS</p>
+<p style="margin-bottom:4px;">&#x2022; Flutter &#x2022; Codeigniter &#x2022; ReactJS</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Sistem Operasi:</h4>
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat)</p>
